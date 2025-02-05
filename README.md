@@ -1,7 +1,7 @@
 # Mirage 🔍
 
 <div align="center">
-  <img src="(https://raw.githubusercontent.com/Mirageappsol/Mirage/refs/heads/main/src/Mirage.png)" alt="Mirage Banner" width="100%" />
+  <img src="src/Mirage.png" alt="Mirage Banner" width="100%" />
 </div>
 
 <div align="center">
