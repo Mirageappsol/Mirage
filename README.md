@@ -6,14 +6,14 @@
 
 <div align="center">
 
-📑 [Whitepaper]([https://mirage-6.gitbook.io/mirage]) | 
+📑 [Whitepaper](https://mirage-6.gitbook.io/mirage) | 
 
 </div>
 
 ## 🚩 Overview
 
 <div align="center">
-  <img src="./docs/static/img/mirage.png" alt="Mirage Architecture" width="100%" />
+
 </div>
 
 ## ✨ Features
