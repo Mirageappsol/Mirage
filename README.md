@@ -6,7 +6,7 @@
 
 <div align="center">
 
-📑 [Whitepaper]([https://mirageappsol.com/whitepaper](https://mirage-6.gitbook.io/mirage)) | 
+📑 [Whitepaper]([https://mirage-6.gitbook.io/mirage]) | 
 
 </div>
 
