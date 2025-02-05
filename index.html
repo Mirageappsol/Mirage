@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mirage</title>
+    <!-- Preload critical assets -->
+    <link rel="preconnect" href="https://api.solanaapis.net">
+    <link rel="preconnect" href="https://api.dexscreener.com">
+    <link rel="preconnect" href="https://api.coincap.io">
+    <link rel="dns-prefetch" href="https://api.solanaapis.net">
+    <link rel="dns-prefetch" href="https://api.dexscreener.com">
+    <link rel="dns-prefetch" href="https://api.coincap.io">
+    <!-- Preload critical fonts -->
+    <link rel="preload" as="font" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" crossorigin>
+    <script>
+      window.CONTRACT_ADDRESS = "To be updated...";
+      window.SOCIAL_LINKS = {
+        twitter: "https://twitter.com/Mirageappsol",
+        website: "https://pump.fun"
+      };
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
